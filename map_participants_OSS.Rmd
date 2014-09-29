@@ -3,9 +3,6 @@ title: "Map of participants in Open Science for Synthesis"
 author: "A.J. Perez-Luque, S. Varela, T. Assal"
 date: "Sep 2014"
 output:
-  html_document:
-    theme: united
-    highlight: pygments
   md_document:
     variant: markdown_github  
 
@@ -52,7 +49,7 @@ mycities
 ```
 
 ## Plot the map 
-```{r mapPlot, fig.width=8, fig.height=5}
+```{r mapPlot, fig.width=8, fig.height=5, cache=TRUE}
 # colour world map 
 micolor <- 'gray80'
 color.nceas <- '#41ab5d'
