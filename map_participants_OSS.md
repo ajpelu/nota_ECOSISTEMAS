@@ -1,4 +1,4 @@
-In this document we create a map of the origin of the participants of the Open Science for Synthesis 2014 hold at National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and University of North Carolina???s Renaissance Computing Institute ([RENCI](http://www.renci.org/)).
+In this document we create a map of the origin of the participants of the Open Science for Synthesis 2014 hold at National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/)) and University of North Carolina's Renaissance Computing Institute ([RENCI](http://www.renci.org/)).
 
 We created a map from the list of participants provided by NCEAS (available [here](https://www.nceas.ucsb.edu/news/open-science-synthesis-announcing-2014-program-participants)) and RENCI (available [here](http://renci.org/news/participants-from-around-the-world-to-participate-in-bicoastal-open-science-for-synthesis-course/)).
 
