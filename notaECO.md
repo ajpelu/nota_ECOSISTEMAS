@@ -13,19 +13,13 @@ Antonio J. Pérez-Luque (2)*
 *Correspondencia: [ajperez@ugr.es](mailto:ajperez@ugr.es)
 
 
-Texto
-----  
-Durante los pasados días 21 de Julio a 8 de Agosto se celebró el taller *Open Science for Synthesis* organizado por el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS), University of California Santa Bárbara) y el Renaissance Computing Institute ([RENCI](http://renci.org/), University of North Carolina). 
+Durante los pasados días 21 de Julio a 8 de Agosto tuvo lugar el taller ***Open Science for Synthesis*** organizado por el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS), University of California Santa Bárbara) y el Renaissance Computing Institute ([RENCI](http://renci.org/), University of North Carolina), que se celebró simultáneamente en Santa Barbara (California) y en Chapel Hill (Carolina del Norte). 
 
-La temática general del workshop fue el concepto de ***Ecoinformática***, esto es, un marco de trabajo que permite a los investigadores generar conocimiento mediante la utilización de herramientas y enfoques innovadores para el descubrimiento, gestión, integración, análisis, visualización y preservación de datos ecológicos (Michener y Jones 2012). 
+Un total de 45 participantes de 35 instituciones procedentes de 11 países (figura 1), tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno al concepto de ***Ecoinformática***, esto es, un marco de trabajo que permite a los investigadores generar conocimiento mediante la utilización de herramientas y enfoques innovadores para el descubrimiento, gestión, integración, análisis, visualización y preservación de datos ecológicos (Michener y Jones 2012). 
 
-Tras un proceso de selección, un total de 45 participantes de 11 países procedentes de XX instituciones diferentes (figura 1), tuvimos la oportunidad de disfrutar de un intensivo taller de tres semanas de duración. El taller que se celebró en dos sedes al mismo tiempo (NCEAS en Santa Barbara, California; y RENCI en Chapel Hill, Carolina del Norte) mediante sistemas de videoconferencia. 
+Durante tres semanas un equipo multidisciplinar de  profesores (link) impartieron sesiones teórico-prácticas sobre diferentes temáticas, entre los que destacan:
 
-El equipo de profesores formado por un ... 
-
-Durante las tres semanas que duró el workshop, el equipo de profesores (incluir ...) impartieron clases teórico-prácticas sobre diferentes ... Entre los temas tratados destacamos: 
-
-* Modelos de colaboración
+* Modelos de colaboración 
 * Gestión y preservación de datos
 * Técnicas de data-sharing
 * Manipulación, exploración e integración de datos ecológicos
@@ -35,57 +29,27 @@ Durante las tres semanas que duró el workshop, el equipo de profesores (incluir
 * Técnicas de comunicación y divulgación de resultados científicos
 * Documentación de modelos ecológicos 
 
+Uno de los aspectos importantes tratados fue el concepto de ***Reproducibilidad*** (Reproducible Science). La reproducibilidad incrementa la transparencia en la ciencia (Ram, 2013), permitiendo, entre otros una evaluación objetiva de los resultados publicados. Sin embargo, la práctica de depositar los datos utilizados en las publicaciones y él código utilizado para generar estos resultados en repositorios públicos no es muy frecuente entre los ecólogos, aunque poco a poco las instituciones están incentivando este tipo de prácticas (Wolkovich et al. 2012). En este sentido durante el workshop los participantes aprendimos diferentes herramientas y procedimientos que fomentan la reproducibilidad en ciencia, como por ejemplo Git (Ram, 2013; Wilson et al. 2014). 
 
-Durante el workshop los participantes recibieron ... formación teórico-práctica de parte de un grupo de profesores ... 
-que proporciornó 
-During this three-week bi-coastal training, OSS participants will receive hands-on guided experience from a dynamic group of instructors assembled to provide for a mixture of instructive lectures, discussions forums, exercises, and real world application of skills to collaborative group synthesis research projects.
+Cada vez mas los ecólogos trabajamos con grandes volúmenes de datos, siendo necesario implementar una cultura transparente de intercambio y agregación de datos en ecología (Hampton et al. 2013). Para ello es importante mejorar la forma en la que documentamos y almacenamos los datos ecológicos (Jones et al. 2006). Durante el taller aprendimos ténicas para *metadatar* los datos y procedimientos para depositar nuestros datos en repositorios públicos (*por ejemplo* DataONE - [https://www.dataone.org/](https://www.dataone.org/)).  De igual modo la utilización de flujos de trabajo científicos (Reichman et al. 2011) permiten mejorar la forma en la que gestionamos los modelos que aplicamos a nuestros datos, sean sencillos o complejos. En este sentido, para aumentar la reproducibilidad, es importante documentar los diferentes procedimientos que aplicamos a nuestros datos para obtener un resultado, esto es, documentar los modelos que aplicamos a los datos. 
 
-
-
-
-hablar algo de los grupos de trabajo 
-
-del material en github ---> preguntar al NCEAS 
-
-fotos: preguntar al NCEAS (1 o 2 fotos) 
-
-formato: clases teórico prácticas; foros de discusión; grupos de trabajo. 
-
-*bolker y estadística 
-
-preparación de datos y análisis estadísticos, metaanálisis 
-
-modelos ecológicos 
-
-
-Dentro del taller se formaron diferentes grupos de trabajo que versaron desde ... hasta ... 
-
-sacar de aqui: 
-
-* Do citizen science data and researcher collected data show the same ecological patterns? 
-* The current California drought: how bad is it?
-* Quantifying the relative importance of species interactions in structuring tree species assemblages 
-* Unexpected marine animal collapses 
-* Multiscale interactions between land-use, biodiversity, and ecosystem services 
-* Using large experimental datasets to assess patterns in diversity effects 
-* Ecohydrologic Responses to Disturbance Events 
-
-Group Synthesis Projects
-
-Participants will form small synthesis teams that focus on utilizing the software skills they learn each day in the context of cross-cutting science research projects. Using an open community engagement process, participants can maximize their success in collaborative research and could potentially lead to publishable results.
-
-
-
-
-Uno de los aspectos importantes que se trató fue el concepto de ***Reproducibilidad*** (Reproducible Science). La reproducibilidad incrementa la transparencia en la ciencia (Ram, 2013), permitiendo, entre otros una evaluación objetiva de los resultados publicados. Sin embargo, la práctica de depositar los datos utilizados en las publicaciones y él código utilizado para generar estos resultados en repositorios públicos no es muy frecuente entre los ecólogos, aunque poco a poco las instituciones están incentivando este tipo de prácticas (Wolkovich et al. 2012). En este sentido durante el workshop los participantes aprendimos diferentes herramientas y procedimientos que fomentan la reproducibilidad en ciencia, como por ejemplo Git (Ram, 2013). 
+Durante el taller también trabajamos técnicas para elegir el mejor modelo que se aplican a cada conjunto de datos (Bolker 2008), así como aquellas que nos permiten llevar a cabo síntesis de conjuntos de datos voluminosos y heterogéneos, como por ejemplo, metaanálisis (Lortie 2013). 
 
 No menos importante fue el aprendizaje de técnicas para mejorar la forma en que los ecólogos comunicamos los resultados de la investigación, tanto en la comunidad científica como hacia el público general o los medios (Baron 2010). Por otro lado se trabajaron técnicas para estimular la colaboración entre científicos en equipos de trabajo multidisciplinares (Hampton y Parker 2011)
 
+Además de las sesiones teórico-prácticas y los foros de discusión, los participantes, formaron grupos de trabajo de síntesis, donde se aplicaban las habilidades aprendidas (técnicas de colaboración, reproducibilidad, análisis, etc.) a diferentes temas ecológicos. Entre las temáticas elegidas encontramos: efectos de la sequía de Californa sobre la productividad de los ecosistemas; comparación de patrones ecológicos obtenidos con datos procedentes de ciencia ciudadana frente a los obtebnidos por datos tomados por los científicos; respuestas ecohidrólogicas de los ecosistemas a perturbaciones; utilización de grandes conjuntos de datos experimentales para evaluar patrones de diversidad; interacción multiescala entre usos del suelo, biodiversidad y servicios ecosistmécos; etc. 
 
 
 
 
-
+Notas
+-----
+* Reducir algo el texto (l	
+* ¿Incluir algo de que todo el material está en GitHub?
+* Incluimos una foto (una del NCEAS)?? 
+* Incluimos el mapa de los participantes?? 
+* Ponemos link con la lista de los profesores (https://www.nceas.ucsb.edu/OSS#Instructors) 
+* Incluimos a alguien mas (Deborah, Tim, ) ???
 
 
 
@@ -99,13 +63,16 @@ Hampton, S.E., Parker, J.N. (2011) Collaboration and productivity in scientific 
 
 Hampton, S.E., Strasser, C.A., Tewksbury, J.J., Gram, W.K., Budden, A.E., Batcheller, A.L., Duke, C.S., Porter, J.H. (2013). Big data and the future of ecology. Frontiers in Ecology and the Environment, 11: 156–162. doi: [10.1890/120103](http://dx.doi.org/10.1890/120103)
 
-Lortie, C.J., Stewart, G., Rothstein, H., Lau, J. (2013). How to critically read ecological meta-analyses. Research Synthesis Methods. doi: [10.1002/jrsm.1109](http://dx.doi.org/10.1002/jrsm.1109) 
+Jones, M.B., Schildhauer, M.P., Reichman, O.J., y Bowers, S. (2006).
+The new bioinformatics: integrating ecological data from the gene to the biosphere. Annual Review of Ecology, Evolution, and Systematics, 37: 519–44, doi: [10.1146/annurev.ecolsys.37.091305.110031](http://dx.doi.org/10.1146/annurev.ecolsys.37.091305.110031)
 
 Lortie, C.J. (2013) Formalized synthesis opportunities for ecology: systematic reviews and meta-analyses. PeerJ PrePrints 1:e39v1 doi: [10.7287/peerj.preprints.39v1](http://dx.doi.org/10.7287/peerj.preprints.39v1)
 
 Michener, W.K., Jones, M.B. (2012) Ecoinformatics: supporting ecology as a data-intensive science. Trends in Ecology & Evolution, 27 (2): 85-93, doi: [10.1016/j.tree.2011.11.016](http://dx.doi.org/10.1016/j.tree.2011.11.016)
 
 Ram, K. (2013). Git can facilitate greater reproducibility and increased transparency in science. Source Code for Biology and Medicine, 8: 1-7  doi:[10.1186/1751-0473-8-7](http://dx.doi.org/10.1186/1751-0473-8-7)
+
+Reichman, O.J., Matthew, B.J., Schildhauer, M.P. (2011). Challenges and opportunities of open data in ecology. Science, 331: 703-705, doi: [10.1126/science.1197962](http://dx.doi.org/10.1126/science.1197962) 
   
 Wilson, G., Aruliah, D.A., Brown, C.T., Chue Hong, N.P., Davis, M., Guy, R.T., Haddock, S., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., Wilson, P. (2014). Best Practices for scientific computing. PLoS Biol 12(1): e1001745. doi: [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371%2Fjournal.pbio.1001745)
 
