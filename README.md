@@ -25,7 +25,7 @@ Además de la nota, este repositorio contiene material suplementario:
 
 (2) Department of Ecology, Faculty of Science, Charles University, Vinicná 7, 128 44 Praha 2, Czech Republic
 
-https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png
+![](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
 
 License: Creative Commons Attribution 4.0 International License
 ![http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png)
