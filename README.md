@@ -4,7 +4,7 @@ Este repositorio contiene la última versión de una nota (breve comunicación) 
 
 La nota es una breve descripción de sobre la participación de los autores en el taller ***Open Science for Synthesis*** celebrado el verano de 2014 en el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS)).
 
-Todo el contenido de la nota se ha generado de forma colaborativa utilizando lenguaje markdown y un control de versiones (Git). 
+Todo el contenido de la [nota](https://github.com/ajpelu/nota_ECOSISTEMAS/blob/master/notaECO.md) se ha generado de forma colaborativa utilizando lenguaje markdown y un control de versiones (Git). 
 
 Además de la nota, este repositorio contiene material suplementario: 
 
