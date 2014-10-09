@@ -2,7 +2,7 @@
 
 Este repositorio contiene la última versión de una nota (breve comunicación) que los autores han preparado para su envío a la revista [Ecosistemas](http://www.revistaecosistemas.net/) de la [Asociación Española de Ecología Terrestre](http://www.aeet.org/). 
 
-La nota es una breve descripción de sobre la participación de los autores en el taller ***Open Science for Synthesis*** celebrado el verano de 2014 en el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS)).
+La nota es una breve descripción de sobre la participación de los autores en el taller ***Open Science for Synthesis*** celebrado el verano de 2014 en el National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS)).
 
 Todo el contenido de la [nota](https://github.com/ajpelu/nota_ECOSISTEMAS/blob/master/notaECO.md) se ha generado utilizando Markdown (un lenguaje de edición de texto), Git para el control de versiones y GitHub como herramienta fundamental para facilitar la colaboración entre los autores.
 
