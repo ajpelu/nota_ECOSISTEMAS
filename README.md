@@ -16,7 +16,7 @@ Además de la nota, este repositorio contiene material suplementario:
 ##### Autores:
 
 * Antonio J. Pérez-Luque (1)
- * ([@ajpelu](https://twitter.com/ajpelu))
+ * [@ajpelu](https://twitter.com/ajpelu)
  * [ajperez@ugr.es](mailto:ajperez@ugr.es)
  * [GitHub](https://github.com/ajpelu/)
 	
