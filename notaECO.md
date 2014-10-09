@@ -1,27 +1,29 @@
-Open Science Synthesis  
+Curso "Open Science for Synthesis 2014" 
 ----
 
-Sara Varela (1)
+Antonio J. Pérez-Luque (1)*
 
-Antonio J. Pérez-Luque (2)*
+Sara Varela (2)
 
+(1) Laboratorio de Ecología (iEcolab), Instituto Interuniversitario Sistema Tierra, Universidad de Granada, Avda. del Mediterráneo s/n, Granada 18006, Spain. 
 
-(1) Department of Ecology, Faculty of Science, Charles University, Vinicná 7, 128 44 Praha 2, Czech Republic
+(2) Department of Ecology, Faculty of Science, Charles University, Vinicná 7, 128 44 Praha 2, Czech Republic
 
-(2) Laboratorio de Ecología (iEcolab), Instituto Interuniversitario Sistema Tierra, Universidad de Granada, Avda. del Mediterráneo s/n, Granada 18006, Spain. 
 
 *Correspondencia: [ajperez@ugr.es](mailto:ajperez@ugr.es)
 
 
 Durante los pasados días 21 de Julio a 8 de Agosto tuvo lugar el taller ***Open Science for Synthesis*** organizado por el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS), University of California Santa Bárbara) y el Renaissance Computing Institute ([RENCI](http://renci.org/), University of North Carolina), que se celebró simultáneamente en Santa Barbara (California) y en Chapel Hill (Carolina del Norte). 
 
-Un total de 45 participantes de 35 instituciones procedentes de 11 países (figura 1), tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno al concepto de ***Ecoinformática***, esto es, un marco de trabajo que permite a los investigadores generar conocimiento mediante la utilización de herramientas y enfoques innovadores para el descubrimiento, gestión, integración, análisis, visualización y preservación de datos ecológicos (Michener y Jones 2012). 
+![](/Bibliotecas/Imagenes/nceas.jpg)
 
-Durante tres semanas un equipo multidisciplinar de  profesores (link) impartieron sesiones teórico-prácticas sobre diferentes temáticas, entre los que destacan:
+Un total de 45 participantes de 35 instituciones procedentes de 11 países (figura 1) tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
 
-* Modelos de colaboración 
-* Gestión y preservación de datos
-* Técnicas de data-sharing
+Durante tres semanas un equipo multidisciplinar de [profesores](https://www.nceas.ucsb.edu/OSS#Instructors) impartieron sesiones teórico-prácticas sobre diferentes temáticas, entre las que destacan:
+
+* Modelos de colaboración entre investigadores
+* Gestión y preservación de datos (Bases de datos y Metadatos)
+* Técnicas para compartir datos de forma eficiente (data-sharing)
 * Manipulación, exploración e integración de datos ecológicos
 * Flujos de trabajo científicos 
 * Reproducibilidad en Ciencia 
@@ -29,29 +31,19 @@ Durante tres semanas un equipo multidisciplinar de  profesores (link) impartiero
 * Técnicas de comunicación y divulgación de resultados científicos
 * Documentación de modelos ecológicos 
 
-Uno de los aspectos importantes tratados fue el concepto de ***Reproducibilidad*** (Reproducible Science). La reproducibilidad incrementa la transparencia en la ciencia (Ram, 2013), permitiendo, entre otros una evaluación objetiva de los resultados publicados. Sin embargo, la práctica de depositar los datos utilizados en las publicaciones y él código utilizado para generar estos resultados en repositorios públicos no es muy frecuente entre los ecólogos, aunque poco a poco las instituciones están incentivando este tipo de prácticas (Wolkovich et al. 2012). En este sentido durante el workshop los participantes aprendimos diferentes herramientas y procedimientos que fomentan la reproducibilidad en ciencia, como por ejemplo Git (Ram, 2013; Wilson et al. 2014). 
+Uno de los aspectos importantes tratados fue el concepto de ***Reproducibilidad*** (Reproducible Science). La reproducibilidad incrementa la transparencia en la ciencia (Ram, 2013), permitiendo, entre otros una evaluación objetiva de los resultados publicados. Sin embargo, la práctica de depositar los datos utilizados en las publicaciones científicas en bases de datos abiertas (e.g. [KNB](https://knb.ecoinformatics.org/)) y él código utilizado para generar los resultados obtenidos en repositorios públicos (e.g. [github](https://github.com/)) no es muy frecuente entre los ecólogos, aunque poco a poco las instituciones están incentivando este tipo de prácticas (Wolkovich et al. 2012). En este sentido durante el workshop los participantes aprendimos diferentes herramientas y procedimientos que fomentan la reproducibilidad y la colaboración entre investigadores, como el uso de github para compartir y desarrollar software en equipo (Ram, 2013; Wilson et al. 2014). 
 
 Cada vez mas los ecólogos trabajamos con grandes volúmenes de datos, siendo necesario implementar una cultura transparente de intercambio y agregación de datos en ecología (Hampton et al. 2013). Para ello es importante mejorar la forma en la que documentamos y almacenamos los datos ecológicos (Jones et al. 2006). Durante el taller aprendimos ténicas para *metadatar* los datos y procedimientos para depositar nuestros datos en repositorios públicos (*por ejemplo* DataONE - [https://www.dataone.org/](https://www.dataone.org/)).  De igual modo la utilización de flujos de trabajo científicos (Reichman et al. 2011) permiten mejorar la forma en la que gestionamos los modelos que aplicamos a nuestros datos, sean sencillos o complejos. En este sentido, para aumentar la reproducibilidad, es importante documentar los diferentes procedimientos que aplicamos a nuestros datos para obtener un resultado, esto es, documentar los modelos que aplicamos a los datos. 
 
-Durante el taller también trabajamos técnicas para elegir el mejor modelo que se aplican a cada conjunto de datos (Bolker 2008), así como aquellas que nos permiten llevar a cabo síntesis de conjuntos de datos voluminosos y heterogéneos, como por ejemplo, metaanálisis (Lortie 2013). 
+Durante el taller también trabajamos técnicas para elegir el mejor modelo que se aplican a cada conjunto de datos (Bolker 2008), así como aquellas que nos permiten llevar a cabo síntesis de conjuntos de datos voluminosos y heterogéneos, como por ejemplo, el metaanálisis (Lortie 2013). 
 
 No menos importante fue el aprendizaje de técnicas para mejorar la forma en que los ecólogos comunicamos los resultados de la investigación, tanto en la comunidad científica como hacia el público general o los medios (Baron 2010). Por otro lado se trabajaron técnicas para estimular la colaboración entre científicos en equipos de trabajo multidisciplinares (Hampton y Parker 2011)
 
-Además de las sesiones teórico-prácticas y los foros de discusión, los participantes, formaron grupos de trabajo de síntesis, donde se aplicaban las habilidades aprendidas (técnicas de colaboración, reproducibilidad, análisis, etc.) a diferentes temas ecológicos. Entre las temáticas elegidas encontramos: efectos de la sequía de Californa sobre la productividad de los ecosistemas; comparación de patrones ecológicos obtenidos con datos procedentes de ciencia ciudadana frente a los obtebnidos por datos tomados por los científicos; respuestas ecohidrólogicas de los ecosistemas a perturbaciones; utilización de grandes conjuntos de datos experimentales para evaluar patrones de diversidad; interacción multiescala entre usos del suelo, biodiversidad y servicios ecosistmécos; etc. 
+Además de las sesiones teórico-prácticas y los foros de discusión, los participantes, formamos grupos de trabajo de síntesis, donde aplicamos las habilidades aprendidas (técnicas de colaboración, reproducibilidad, análisis, etc.) a diferentes temas ecológicos. Entre las temáticas elegidas encontramos: efectos de la sequía de Californa sobre la productividad de los ecosistemas (todos los materiales generados en este proyecto están disponibles en un [repositorio en github](https://github.com/macroecology/Drought_CA); comparación de patrones ecológicos obtenidos con datos procedentes de ciencia ciudadana frente a los obtebnidos por datos tomados por los científicos; respuestas ecohidrólogicas de los ecosistemas a perturbaciones; utilización de grandes conjuntos de datos experimentales para evaluar patrones de diversidad; interacción multiescala entre usos del suelo, biodiversidad y servicios ecosistmécos; etc. 
 
+Este es el segundo año que se imparte el curso. Desde aquí queremos animar a los ecólogos interesados en aprender técnicas y herramientas para optimizar los análisis, los flujos de trabajo y la reproductibilidad en la ciencia a que soliciten participar en la próxima convocatoria que presumiblemente será en Julio de 2015. 
 
-
-
-Notas
------
-* Reducir algo el texto (l	
-* ¿Incluir algo de que todo el material está en GitHub?
-* Incluimos una foto (una del NCEAS)?? 
-* Incluimos el mapa de los participantes?? 
-* Ponemos link con la lista de los profesores (https://www.nceas.ucsb.edu/OSS#Instructors) 
-* Incluimos a alguien mas (Deborah, Tim, ) ???
-
-
+Para predicar con el ejemplo, esta nota se ha generado usando markdown, un lenguaje de texto que permite un fácil control de versiones usando Git. Además hemos colaborado para su edición a través de github. El texto completo se puede consultar en el siguiente [repositorio](https://github.com/ajpelu/nota_ECOSISTEMAS/).
 
 References 
 ----
