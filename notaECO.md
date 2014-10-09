@@ -10,12 +10,12 @@ Sara Varela (2)
 (2) Department of Ecology, Faculty of Science, Charles University, Vinicná 7, 128 44 Praha 2, Czech Republic
 
 
-*Correspondencia: [ajperez@ugr.es](mailto:ajperez@ugr.es)
+*Autor de correspondencia: [ajperez@ugr.es](mailto:ajperez@ugr.es)
 
 
 Durante los pasados días 21 de Julio a 8 de Agosto tuvo lugar el taller ***Open Science for Synthesis*** organizado por el National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS), University of California Santa Bárbara) y el Renaissance Computing Institute ([RENCI](http://renci.org/), University of North Carolina), que se celebró simultáneamente en Santa Barbara (California) y en Chapel Hill (Carolina del Norte). 
 
-Un total de 45 participantes de 35 instituciones procedentes de 11 países tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
+Un total de 45 participantes de 35 instituciones procedentes de 11 países (Fig. 1) tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
 
 ![](/images/oss2014_nceas_group.jpg)
 Figura 1. Foto de los participantes en la sede del National Center for Ecological Analysis and Synthesis. Los autores en la fila inferior (segundo y cuarta a la izquierda).
