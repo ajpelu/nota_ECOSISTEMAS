@@ -4,7 +4,7 @@ Este repositorio contiene la última versión de una nota (breve comunicación) 
 
 La nota es una breve descripción de sobre la participación de los autores en el taller ***Open Science for Synthesis*** celebrado el verano de 2014 en el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS)).
 
-Todo el contenido de la [nota](https://github.com/ajpelu/nota_ECOSISTEMAS/blob/master/notaECO.md) se ha generado de forma colaborativa utilizando lenguaje markdown y un control de versiones (Git). 
+Todo el contenido de la [nota](https://github.com/ajpelu/nota_ECOSISTEMAS/blob/master/notaECO.md) se ha generado utilizando Markdown (un lenguaje de edición de texto), Git para el control de versiones y GitHub como herramienta fundamental para facilitar la colaboración entre los autores.
 
 Además de la nota, este repositorio contiene material suplementario: 
 
@@ -21,6 +21,8 @@ Además de la nota, este repositorio contiene material suplementario:
  * [GitHub](https://github.com/ajpelu/)
 	
 * Sara Varela (2)
+ * [@_Sara_Varela](https://twitter.com/_Sara_Varela)
+ * [svarela@paleobiogeography.org](mailto:svarela@paleobiogeography.org)
  * [GitHub](https://github.com/SaraVarela)
 
 (1) Laboratorio de Ecología (iEcolab), Instituto Interuniversitario Sistema Tierra (CEAMA), Universidad de Granada, Avda. del Mediterráneo s/n, Granada 18006, Spain.
