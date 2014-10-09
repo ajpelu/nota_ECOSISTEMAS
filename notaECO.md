@@ -47,28 +47,28 @@ Para predicar con el ejemplo, esta nota se ha generado usando markdown, un lengu
 
 References 
 ----
-Baron, N. (2010) Escape from the ivory tower: a guide to making your science matter. Washington, D.C.: Island Press.
+Baron, N. 2010. *Escape from the ivory tower: a guide to making your science matter*. Washington, D.C.: Island Press.
 
-Bolker, B.M. (2008). Ecological models and data in R. Pricenton and Oxford, Pricenton University Press.
+Bolker, B.M. 2008. *Ecological models and data in R*. Pricenton and Oxford, Pricenton University Press.
 
-Hampton, S.E., Parker, J.N. (2011) Collaboration and productivity in scientific synthesis. BioScience, 61(11): 900-910, doi: [10.1525/bio.2011.61.11.9](http://dx.doi.org/10.1525/bio.2011.61.11.9)
+Hampton, S.E., Parker, J.N. 2011. Collaboration and productivity in scientific synthesis. *BioScience* 61(11): 900-910, doi: [10.1525/bio.2011.61.11.9](http://dx.doi.org/10.1525/bio.2011.61.11.9)
 
-Hampton, S.E., Strasser, C.A., Tewksbury, J.J., Gram, W.K., Budden, A.E., Batcheller, A.L., Duke, C.S., Porter, J.H. (2013). Big data and the future of ecology. Frontiers in Ecology and the Environment, 11: 156–162. doi: [10.1890/120103](http://dx.doi.org/10.1890/120103)
+Hampton, S.E., Strasser, C.A., Tewksbury, J.J., Gram, W.K., Budden, A.E., Batcheller, A.L., Duke, C.S., Porter, J.H. 2013. Big data and the future of ecology. *Frontiers in Ecology and the Environment* 11: 156–162. doi: [10.1890/120103](http://dx.doi.org/10.1890/120103)
 
-Jones, M.B., Schildhauer, M.P., Reichman, O.J., y Bowers, S. (2006).
-The new bioinformatics: integrating ecological data from the gene to the biosphere. Annual Review of Ecology, Evolution, and Systematics, 37: 519–44, doi: [10.1146/annurev.ecolsys.37.091305.110031](http://dx.doi.org/10.1146/annurev.ecolsys.37.091305.110031)
+Jones, M.B., Schildhauer, M.P., Reichman, O.J., y Bowers, S. 2006.
+The new bioinformatics: integrating ecological data from the gene to the biosphere. *Annual Review of Ecology, Evolution, and Systematics* 37: 519–44, doi: [10.1146/annurev.ecolsys.37.091305.110031](http://dx.doi.org/10.1146/annurev.ecolsys.37.091305.110031)
 
-Lortie, C.J. (2013) Formalized synthesis opportunities for ecology: systematic reviews and meta-analyses. PeerJ PrePrints 1:e39v1 doi: [10.7287/peerj.preprints.39v1](http://dx.doi.org/10.7287/peerj.preprints.39v1)
+Lortie, C.J. 2013. Formalized synthesis opportunities for ecology: systematic reviews and meta-analyses. *PeerJ PrePrints* 1:e39v1 doi: [10.7287/peerj.preprints.39v1](http://dx.doi.org/10.7287/peerj.preprints.39v1)
 
-Michener, W.K., Jones, M.B. (2012) Ecoinformatics: supporting ecology as a data-intensive science. Trends in Ecology & Evolution, 27 (2): 85-93, doi: [10.1016/j.tree.2011.11.016](http://dx.doi.org/10.1016/j.tree.2011.11.016)
+Michener, W.K., Jones, M.B. 2012. Ecoinformatics: supporting ecology as a data-intensive science. *Trends in Ecology & Evolution* 27 (2): 85-93, doi: [10.1016/j.tree.2011.11.016](http://dx.doi.org/10.1016/j.tree.2011.11.016)
 
-Ram, K. (2013). Git can facilitate greater reproducibility and increased transparency in science. Source Code for Biology and Medicine, 8: 1-7  doi:[10.1186/1751-0473-8-7](http://dx.doi.org/10.1186/1751-0473-8-7)
+Ram, K. 2013. Git can facilitate greater reproducibility and increased transparency in science. *Source Code for Biology and Medicine* 8: 1-7  doi:[10.1186/1751-0473-8-7](http://dx.doi.org/10.1186/1751-0473-8-7)
 
-Reichman, O.J., Matthew, B.J., Schildhauer, M.P. (2011). Challenges and opportunities of open data in ecology. Science, 331: 703-705, doi: [10.1126/science.1197962](http://dx.doi.org/10.1126/science.1197962) 
+Reichman, O.J., Matthew, B.J., Schildhauer, M.P. 2011. Challenges and opportunities of open data in ecology. *Science* 331: 703-705, doi: [10.1126/science.1197962](http://dx.doi.org/10.1126/science.1197962) 
   
-Wilson, G., Aruliah, D.A., Brown, C.T., Chue Hong, N.P., Davis, M., Guy, R.T., Haddock, S., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., Wilson, P. (2014). Best Practices for scientific computing. PLoS Biol 12(1): e1001745. doi: [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371%2Fjournal.pbio.1001745)
+Wilson, G., Aruliah, D.A., Brown, C.T., Chue Hong, N.P., Davis, M., Guy, R.T., Haddock, S., Huff, K.D., Mitchell, I.M., Plumbley, M.D., Waugh, B., White, E.P., Wilson, P. 2014. Best Practices for scientific computing. *PLoS Biololgy* 12(1): e1001745. doi: [10.1371/journal.pbio.1001745](http://dx.doi.org/10.1371%2Fjournal.pbio.1001745)
 
-Wolkovich, E.M., Regetz, J., O'Connor, M.I. (2012). Advances in global change research require open science by individual researchers. Global Change Biology, 18(7): 2102-2110, doi: [10.1111/j.1365-2486.2012.02693.x](http://dx.doi.org/10.1111/j.1365-2486.2012.02693.x)
+Wolkovich, E.M., Regetz, J., O'Connor, M.I. 2012. Advances in global change research require open science by individual researchers. *Global Change Biology* 18(7): 2102-2110, doi: [10.1111/j.1365-2486.2012.02693.x](http://dx.doi.org/10.1111/j.1365-2486.2012.02693.x)
 
 
 
