@@ -8,24 +8,25 @@ Todo el contenido de la nota se ha generado de forma colaborativa utilizando len
 
 Además de la nota, este repositorio contiene material suplementario: 
 
-* Fotos e imágenes del evento
-* Mapa con la procedencia de los participantes del taller: figura y script necesario para generar la figura
+* [Fotos e imágenes](https://github.com/ajpelu/nota_ECOSISTEMAS/tree/master/images) del evento
+* Mapa con la procedencia de los participantes del taller: [figura](https://raw.githubusercontent.com/ajpelu/nota_ECOSISTEMAS/master/map_participants_OSS_files/figure-markdown_github/mapPlot.png) y [script](https://github.com/ajpelu/nota_ECOSISTEMAS/blob/master/map_participants_OSS.md) necesario para generar la figura
 * [Storyline del evento en las Redes Sociales](http://sfy.co/epA3)
-
 
 
 ##### Autores:
 
-* Antonio J. Pérez-Luque ([@ajpelu](https://twitter.com/ajpelu)) (1); mail: [ajperez@ugr.es](mailto:ajperez@ugr.es)
+* Antonio J. Pérez-Luque (1)
+ * ([@ajpelu](https://twitter.com/ajpelu)) (1)
+ * [ajperez@ugr.es](mailto:ajperez@ugr.es)
+ * [GitHub](https://github.com/ajpelu/)
 	
-
 * Sara Varela (2)
+ * [GitHub](https://github.com/SaraVarela)
 
 (1) Laboratorio de Ecología (iEcolab), Instituto Interuniversitario Sistema Tierra (CEAMA), Universidad de Granada, Avda. del Mediterráneo s/n, Granada 18006, Spain.
 
 (2) Department of Ecology, Faculty of Science, Charles University, Vinicná 7, 128 44 Praha 2, Czech Republic
 
-![](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
 
 License: Creative Commons Attribution 4.0 International License
 ![http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png)
