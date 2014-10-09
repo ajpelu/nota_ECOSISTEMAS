@@ -15,9 +15,9 @@ Sara Varela (2)
 
 Durante los pasados días 21 de Julio a 8 de Agosto tuvo lugar el taller ***Open Science for Synthesis*** organizado por el National Center for Ecological and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS), University of California Santa Bárbara) y el Renaissance Computing Institute ([RENCI](http://renci.org/), University of North Carolina), que se celebró simultáneamente en Santa Barbara (California) y en Chapel Hill (Carolina del Norte). 
 
-![](/images/oss2014_nceas_session.jpg)
+Un total de 45 participantes de 35 instituciones procedentes de 11 países tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
 
-Un total de 45 participantes de 35 instituciones procedentes de 11 países (figura 1) tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
+![](/images/oss2014_nceas_group.jpg)
 
 Durante tres semanas un equipo multidisciplinar de [profesores](https://www.nceas.ucsb.edu/OSS#Instructors) impartieron sesiones teórico-prácticas sobre diferentes temáticas, entre las que destacan:
 
@@ -35,7 +35,7 @@ Uno de los aspectos importantes tratados fue el concepto de ***Reproducibilidad*
 
 Cada vez mas los ecólogos trabajamos con grandes volúmenes de datos, siendo necesario implementar una cultura transparente de intercambio y agregación de datos (Hampton et al. 2013). Para ello es importante mejorar la forma en la que documentamos y almacenamos los datos ecológicos (Jones et al. 2006). Durante el taller aprendimos ténicas para *metadatar* datos y procedimientos para depositarlos en repositorios públicos (e.g. [DataONE](https://www.dataone.org/)). De igual modo la utilización de flujos de trabajo científicos (Reichman et al. 2011) permite mejorar la forma en la que gestionamos los modelos que aplicamos a nuestros datos, sean sencillos o complejos. En este sentido, para aumentar la reproducibilidad, un aspecto clave es documentar los diferentes procedimientos que aplicamos a nuestros datos para obtener un resultado, esto es, documentar los modelos que aplicamos a los datos. 
 
-Durante el taller también trabajamos técnicas para elegir el mejor modelo que se aplica a cada conjunto de datos (Bolker 2008), y para llevar a cabo síntesis de conjuntos de datos voluminosos y heterogéneos, como por ejemplo, el metaanálisis (Lortie 2013). 
+Durante el taller también trabajamos técnicas para elegir el mejor modelo que se aplica a cada conjunto de datos (Bolker 2008), y otras para llevar a cabo síntesis de conjuntos de datos voluminosos y heterogéneos, como por ejemplo, el metaanálisis (Lortie 2013). 
 
 No menos importante fue el aprendizaje de procedimientos para mejorar la forma en que los ecólogos comunicamos los resultados de la investigación, tanto en la comunidad científica como hacia el público general o los medios (Baron 2010). Por otro lado se trabajaron técnicas para estimular la colaboración entre científicos en equipos de trabajo multidisciplinares (Hampton y Parker 2011)
 
