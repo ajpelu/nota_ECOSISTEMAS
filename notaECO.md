@@ -18,7 +18,7 @@ Durante los pasados días 21 de Julio a 8 de Agosto tuvo lugar el taller ***Open
 Un total de 45 participantes de 35 instituciones procedentes de 11 países (Fig. 1) tuvimos la oportunidad de disfrutar de este intensivo taller que giró en torno a dos conceptos principales: ***Ecoinformática*** y ***Open Science***, esto es, un marco de trabajo abierto basado en la utilización de herramientas de desarrollo de software, que permite a los investigadores tanto generar, gestionar y almacenar su producción científica de manera óptima, como difundir, compartir y colaborar con otros investigadores (Michener y Jones 2012). 
 
 ![](/images/oss2014_nceas_group.jpg)
-Figura 1. Foto de los participantes en la sede del National Center for Ecological Analysis and Synthesis. Los autores en la fila inferior (segundo y cuarta a la izquierda).
+Figura 1. Foto de los participantes en la sede del National Center for Ecological Analysis and Synthesis. Los autores en la fila inferior (segundo y cuarta a la izquierda). Foto: Ginger Gillquist.
 
 
 Durante tres semanas un equipo multidisciplinar de [profesores](https://www.nceas.ucsb.edu/OSS#Instructors) impartieron sesiones teórico-prácticas sobre diferentes temáticas, entre las que destacan:
