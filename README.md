@@ -1,6 +1,6 @@
 ###### README
 
-Este repositorio contiene la última versión de una nota (breve comunicación) que los autores han preparado para su envío a la revista [Ecosistemas](http://www.revistaecosistemas.net/) de la [Asociación Española de Ecología Terrestre](http://www.aeet.org/). 
+Este repositorio contiene la última versión de una nota (breve comunicación) que los autores han preparado para su envío a la revista [Ecosistemas](http://www.revistaecosistemas.net/) de la [Asociación Española de Ecología Terrestre](http://www.aeet.org/).
 
 La nota es una breve descripción de sobre la participación de los autores en el taller ***Open Science for Synthesis*** celebrado el verano de 2014 en el National Center for Ecological Analysis and Synthesis ([NCEAS](https://www.nceas.ucsb.edu/OSS)).
 
@@ -32,3 +32,6 @@ Además de la nota, este repositorio contiene material suplementario:
 
 License: Creative Commons Attribution 4.0 International License
 ![http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png)
+
+El artículo se puede consultar aquí 
+Pérez-Luque, A.J., Varela, S. 2014. Curso “Open Science for Synthesis 2014”. Ecosistemas 23(2):117-118. Doi.: [10.7818/ECOS.2014.23-3.18](https://dx.doi.org/10.7818/ECOS.2014.23-3.18). [PDF](http://www.revistaecosistemas.net/index.php/ecosistemas/article/download/1014/860)
